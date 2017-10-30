@@ -1,2 +1,2 @@
 # Hacktoberfest
-A monthly program
+A monthly program - helds during october
